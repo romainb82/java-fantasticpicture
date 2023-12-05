@@ -1,0 +1,5 @@
+romain;paris;20
+bob;paris;1
+romain;espace;19
+bob;espace;4
+romain;gaudi;12
